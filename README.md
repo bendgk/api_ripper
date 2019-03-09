@@ -1,6 +1,6 @@
 # api_ripper
 
-api_rippe is a regex powered source sniffer that hopes to find strings that look similar to api endpoints.
+api_ripper is a regex powered source sniffer that hopes to find strings that look similar to api endpoints.
 This is accomplished by matching strings in source code to various url schemas and common api keywords.
 
 # Usage
