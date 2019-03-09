@@ -1,0 +1,7 @@
+dev, 10
+api, 10
+prod, 10
+rest, 5
+get, 5
+post, 5
+[/]v[1,2,3], 5
