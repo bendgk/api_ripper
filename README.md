@@ -17,3 +17,6 @@ api, 10
 ```
 
 provided is a basic keywords.txt file
+
+# Output
+output is produced as an out.txt
